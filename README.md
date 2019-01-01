@@ -3,3 +3,5 @@ sample git operations
 adding secondline
 adding third line
 adding last line
+last line`:wq!
+
